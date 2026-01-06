@@ -115,7 +115,7 @@ npm --version
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/nexlist.git
+git clone https://github.com/frevszz/NexList.git
 cd nexlist
 ```
 
