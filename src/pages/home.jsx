@@ -95,7 +95,7 @@ function App() {
             </div>
           </div>
 
-          {/* TODO LIST - pass loadTodos sebagai onUpdate */}
+          {/* TODO LIST */}
           <div className="mt-6">
             <TodoList
               todos={todos}
